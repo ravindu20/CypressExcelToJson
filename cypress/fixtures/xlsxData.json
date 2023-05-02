@@ -1,0 +1,34 @@
+{
+  "rows": [
+    {
+      "firstName": "Ravi",
+      "lastName": "Ravi",
+      "email": "rav0@gmail.com",
+      "subject": "Computer Science",
+      "dob": "20 June 1994",
+      "current_address": "No:12, Kegalle",
+      "photoPath": "3135715.png",
+      "telephone": "0715872314"
+    },
+    {
+      "firstName": "Ravi2",
+      "lastName": "Ravi2",
+      "email": "rav0@gmail.com",
+      "subject": "Computer Science, Physics",
+      "dob": "20 June 1994",
+      "current_address": "No:12, Kegalle",
+      "photoPath": "3135715.png",
+      "telephone": "0715872315"
+    },
+    {
+      "firstName": "Ravi3",
+      "lastName": "Ravi3",
+      "email": "rav0@gmail.com",
+      "subject": "Computer Science, Physics",
+      "dob": "20 June 1994",
+      "current_address": "No:12, Kegalle",
+      "photoPath": "3135715.png",
+      "telephone": "0715872315"
+    }
+  ]
+}
